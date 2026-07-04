@@ -65,6 +65,14 @@
 * **Arsitektur Multi-Halaman:** Pemisahan halaman yang terstruktur antara katalog utama pelanggan, detail produk, form pembayaran, hingga panel login dan pengelolaan back-end untuk admin.
 * **Sistem Pencarian & Filter:** Fitur pencarian produk secara *real-time* berbasis JavaScript untuk mempermudah navigasi konsumen dalam menemukan kategori produk spesifik.
 
+## 🛠️ FITUR TEKNIS & DOKUMENTASI
+
+... (bagian Fitur Utama Website tetap sama) ...
+
+## 🛠️ FITUR TEKNIS & DOKUMENTASI
+
+... (bagian Fitur Utama Website tetap sama) ...
+
 ### 2. Struktur File Proyek
 ```text
 OnlineStore-IndahBeauteAtalier/
@@ -74,9 +82,10 @@ OnlineStore-IndahBeauteAtalier/
 ├── checkout.html               # Form Pengisian Data & Pembayaran
 ├── order_success.html          # Halaman Konfirmasi Transaksi Berhasil
 ├── login.html                  # Halaman Autentikasi Pengguna/Customer
+├── register.html               # Halaman Pendaftaran Akun Pelanggan Baru
 ├── profile.html                # Halaman Informasi Akun Customer
+├── tracking.html               # Halaman Pelacakan Status Pengiriman Pesanan
 │
-├── admin.html                  # Gerbang Utama Dashboard Admin
 ├── admin_login.html            # Halaman Autentikasi Keamanan Admin
 ├── admin_dashboard.html        # Panel Monitoring & Ringkasan Data Admin
 ├── admin_produk.html           # Manajemen Daftar Inventori Produk
@@ -84,11 +93,21 @@ OnlineStore-IndahBeauteAtalier/
 ├── admin_edit_produk.html      # Form Perubahan Data Produk
 ├── admin_pesanan.html          # Panel Pemantauan Transaksi Masuk
 │
+├── css/                        # Direktori Penyimpanan Berkas Stylesheet
+│   ├── admin_style.css         # Desain Tata Letak & Estetika Panel Admin
+│   └── style.css               # Desain Visual & Responsivitas Halaman Utama/Customer
+│
+├── js/                         # Direktori Penyimpanan Logika & Skrip JavaScript
+│   ├── admin.js                # Fungsi Autentikasi & Validasi Sesi Admin
+│   ├── admin_script.js         # Logika Operasional CRUD Produk & Manajemen Pesanan Admin
+│   ├── default_products.js     # Berkas Data Awal/Inisialisasi Produk Kosmetik
+│   └── script.js               # Logika Keranjang Belanja, Pencarian, & Interaksi Halaman Utama
+│
 ├── README.md                   # Dokumentasi Resmi Proyek
 │
-│── [Aset Gambar Produk] (24 file visual di direktori utama)
-│   ├── ampoule baru.jpeg
-│   ├── blushon.jpg.jpeg
-│   ├── body wash.jpg.jpeg
-│   ├── claymask baru.jpeg
-│   └── ... (dan aset produk kecantikan lainnya)
+└── [Aset Gambar Produk] (24 file visual di direktori utama)
+    ├── ampoule baru.jpeg
+    ├── blushon.jpg.jpeg
+    ├── body wash.jpg.jpeg
+    ├── claymask baru.jpeg
+    └── ... (dan aset produk kecantikan lainnya)
