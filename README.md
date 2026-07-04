@@ -10,10 +10,9 @@
 ---
 
 ## 🔗 LINK AKSES UTAMA
-* **Link Live Website (Customer):** [https://indahkiranaputri.github.io/IndahBeauteAtalier-OnlineStore/](https://indahkiranaputri.github.io/IndahBeauteAtalier-OnlineStore/)
-* **Link Halaman Admin:** [https://indahkiranaputri.github.io/IndahBeauteAtalier-OnlineStore/admin_login.html](https://indahkiranaputri.github.io/IndahBeauteAtalier-OnlineStore/admin_login.html)
-* **Link Repository GitHub:** [https://github.com/indahkiranaputri/IndahBeauteAtalier-OnlineStore](https://github.com/indahkiranaputri/IndahBeauteAtalier-OnlineStore)
-
+* **Link Live Website (Customer):** [https://ikrnap.github.io/OnlineStore-IndahBeauteAtalier/](https://ikrnap.github.io/OnlineStore-IndahBeauteAtalier/)
+* **Link Halaman Admin:** [https://ikrnap.github.io/OnlineStore-IndahBeauteAtalier/admin_login.html](https://ikrnap.github.io/OnlineStore-IndahBeauteAtalier/admin_login.html)
+* **Link Repository GitHub:** [https://github.com/ikrnap/OnlineStore-IndahBeauteAtalier](https://github.com/ikrnap/OnlineStore-IndahBeauteAtalier)
 ---
 
 ## 📝 DESKRIPSI & STRATEGI BISNIS MODERN
