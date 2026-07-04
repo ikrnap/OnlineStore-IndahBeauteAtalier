@@ -27,7 +27,7 @@
 ### 2. Business Overview & Analisis Manajemen Strategis
 
 *   **Visi, Nama, & Konsep Bisnis:**  
-    **Indah's Beauté Atelier** didirikan sebagai platform *smart e-commerce* yang mengurasi produk kecantikan premium—mencakup kategori *skincare, cosmetics, haircare, bodycare,* hingga *perfume*—dari merek lokal pilihan yang telah teruji secara klinis dan memiliki sertifikasi keamanan ketat. Bisnis ini tidak sekadar bertindak sebagai toko kosmetik daring biasa, melainkan sebuah wadah kurasi (*curated marketplace*) yang mengedukasi konsumen untuk menemukan produk yang benar-benar sesuai dengan kebutuhan spesifik tubuh dan kulit mereka.
+    **Indah's Beauté Atelier** didirikan sebagai platform *smart e-commerce* yang mengurasi produk kecantikan premium mencakup kategori *skincare, cosmetics, haircare, bodycare,* hingga *perfume* dari merek lokal pilihan yang telah teruji secara klinis dan memiliki sertifikasi keamanan ketat. Bisnis ini tidak sekadar bertindak sebagai toko kosmetik daring biasa, melainkan sebuah wadah kurasi (*curated marketplace*) yang mengedukasi konsumen untuk menemukan produk yang benar-benar sesuai dengan kebutuhan spesifik tubuh dan kulit mereka.
 
 *   **Proposisi Nilai Keunggulan (*Value Proposition*):**  
     Kami mengusung tiga pilar nilai utama: *Ethical Beauty, Price Transparency,* dan *Seamless Shopping Experience*. Seluruh produk yang tersedia dijamin 100% *cruelty-free* (tidak diuji pada hewan) dan ramah lingkungan. Di tengah maraknya produk tiruan di pasar digital, Indah's Beauté Atelier menjamin keaslian mutlak dengan jalur distribusi yang transparan, memberikan informasi kandungan produk secara detail, serta menghadirkan pengalaman belanja personal lewat antarmuka yang intuitif dan bebas gangguan iklan pihak ketiga.
